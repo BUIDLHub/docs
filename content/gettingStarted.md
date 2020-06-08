@@ -8,10 +8,5 @@ Use **BUIDLHub** for FREE to dramatically reduce the time on blockchain-based ev
 
 Please join our community here:
 
-- **Youtube**: https://www.youtube.com/channel/UCBudqf1FNGwtOrPL8f99lCA/featured
-- **Twitter**: https://twittter.com/buidlhub
-- **Medium**: https://medium.com/buidlhub​
-- **LinkedIn**: https://www.linkedin.com/company/buidlhub/​
-- **Telegram**: https://t.me/buidlhub​
-- **Discord**: https://discord.gg/fQtpeT2​
-  ​
+[**Youtube**](https://www.youtube.com/channel/UCBudqf1FNGwtOrPL8f99lCA/featured) | [**Twitter**](https://twittter.com/buidlhub) | [**Medium**](https://medium.com/buidlhub​) | [**LinkedIn**](https://www.linkedin.com/company/buidlhub/​) | [**Telegram**](https://t.me/buidlhub​) | [**Discord** ](https://discord.gg/fQtpeT2​)
+​
