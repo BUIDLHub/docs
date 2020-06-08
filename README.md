@@ -6,7 +6,7 @@ Using `npm` for package management.
 
 Use `npm start` to run locally.
 
-![welcome](https://github.com/BUIDLHub/docs/tree/master/src/assets/images/bhub-docs-cover-2.png)
+![welcome](https://github.com/BUIDLHub/docs/tree/master/src/assets/images/bhub-docs-cover-2.png).
 
 ## 🚀 Quickstart
 
