@@ -1,10 +1,32 @@
 ---
 title: 'Introduction'
-metaTitle: 'BUIDLHub Docs Intro'
-metaDescription: 'Getting started with the BUIDLHub documentation: let's automate web3.0 & web2.0 without coding.'
+metaTitle: 'BUIDLHUb Docs Intro'
+metaDescription: 'Read the sub-pages to see example pages'
 ---
 
-BUIDLHUb is a no-code solution for passing data between on-chain and traditional web and to ultimately change our relationship with technology. It's essentially IFTTT for web3.0.
+BUIDLHub is a no-code solution for passing data between on-chain and traditional web and to ultimately change our relationship with technology. It's essentially IFTTT for web3.0.
+
+# Web3.0, Web2.0, Done!
+
+The data that passes between products and services in our life are siloed. Even in web3.0, we generally use non-financial apps in isolation.
+
+Despite all the advancement of SaaS, our relationship with tech is still quite janky. We need a way to connect the data about ourselves, purchased products, and subscribed services together without having it stolen, sold without us knowing, or used to track us.
+
+However, web3.0 industry participants, who created the connections to perform these functions, struggle with usability, aligning incentives, and growing their user base.
+
+BUIDLHub proposes a no-code, easy-to-use automation platform to help innovators spin up workflows built atop the greatest and latest decentralized apps so we can optimize our lives one step at a time. We also embed BUIDLHub forms on other pages so you can programmatically spin up flows.
+
+Want to experiment with the future? Here's your chance!
+
+---
+
+title: 'Introduction'
+metaTitle: 'BUIDLHub Docs Intro'
+metaDescription: 'Getting started with the BUIDLHub documentation: let's automate web3.0 & web2.0 without coding.'
+
+---
+
+BUIDLHub is a no-code solution for passing data between on-chain and traditional web and to ultimately change our relationship with technology. It's essentially IFTTT for web3.0.
 
 # Web3.0, Web2.0, Done!
 
@@ -69,14 +91,11 @@ How can you feasibly decentralize the internet if every website acts like an ind
 
 We'd like to think we're playing a role in changing the blockchain developer paradigm. Designing the callable smart contract functions and making the language consistent with unstandardized design practices is a second, third priority—or not even a priority at all to many blockchain developers. We want to make this line of thinking standard across our industry.Our mission is to give blockchain product development teams a tool that expands their adoption and make it easier to introduce their products and services to your own projects. In order to do this, we need to help contribute to a shared perspective on how to interpret and communicate with data on-chain.
 
+---
+
 Use **BUIDLHub** for FREE to dramatically reduce the time on blockchain-based event integrations.
 
 Please join our community here:
 
-- **Youtube**: https://www.youtube.com/channel/UCBudqf1FNGwtOrPL8f99lCA/featured
-- **Twitter**: https://twittter.com/buidlhub
-- **Medium**: https://medium.com/buidlhub​
-- **LinkedIn**: https://www.linkedin.com/company/buidlhub/​
-- **Telegram**: https://t.me/buidlhub​
-- **Discord**: https://discord.gg/fQtpeT2​
-  ​
+[**Youtube**](https://www.youtube.com/channel/UCBudqf1FNGwtOrPL8f99lCA/featured) | [**Twitter**](https://twittter.com/buidlhub) | [**Medium**](https://medium.com/buidlhub​) | [**LinkedIn**](https://www.linkedin.com/company/buidlhub/​) | [**Telegram**](https://t.me/buidlhub​) | [**Discord**: ](https://discord.gg/fQtpeT2​)
+​

@@ -9,6 +9,8 @@ import config from '../../config.js';
 import LoadingProvider from './mdxComponents/loading';
 import { DarkModeSwitch } from './DarkModeSwitch';
 
+import BUIDLHub from '../assets/images/buidlhub-logo.svg';
+
 const help = require('./images/help.svg');
 
 const isSearchEnabled = config.header.search && config.header.search.enabled ? true : false;
@@ -43,15 +45,16 @@ function myFunction() {
 const StyledBgDiv = styled('div')`
   height: 60px;
   box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
-  background-color: #f8f8f8;
+  background-color: #04151c;
   position: relative;
   display: none;
-  background: ${props => (props.isDarkThemeActive ? '#001932' : undefined)};
 
   @media (max-width: 767px) {
     display: block;
   }
 `;
+// background-color: #f8f8f8;
+// background: ${props => (props.isDarkThemeActive ? '#001932' : undefined)};
 
 const Header = ({ location, isDarkThemeActive, toggleActiveTheme }) => (
   <StaticQuery
@@ -90,18 +93,19 @@ const Header = ({ location, isDarkThemeActive, toggleActiveTheme }) => (
         },
       } = data;
 
-      const finalLogoLink = logo.link !== '' ? logo.link : 'https://hasura.io/';
+      const finalLogoLink = logo.link !== '' ? logo.link : 'https://buidlhub.io';
 
       return (
         <div className={'navBarWrapper'}>
           <nav className={'navBarDefault'}>
             <div className={'navBarHeader'}>
               <Link to={finalLogoLink} className={'navBarBrand'}>
-                <img
+                {/* <img
                   className={'img-responsive displayInline'}
                   src={logo.image !== '' ? logo.image : logoImg}
                   alt={'logo'}
-                />
+                /> */}
+                <img className={'img-responsive displayInline'} src={BUIDLHub} alt={'logo'} />
               </Link>
               <div
                 className={'headerTitle displayInline'}

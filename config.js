@@ -7,9 +7,9 @@ const config = {
   },
   header: {
     logo: './src/pwa-512.png',
-    logoLink: 'https://buidlhub.com',
+    logoLink: 'https://buidlhub.com/static/media/bhub-logo-hex-gold.135de49c.svg',
     title:
-      "<a href='https://buidlhub.com'><img class='img-responsive' src='https://buidlhub.com/static/media/bhub-logo-hex-gold.135de49c.svg' alt='Learn logo' /></a>",
+      "<a href='https://buidlhub.com'><img class='img-responsive' src='https://buidlhub.com/static/media/bhub-logo-hex-gold.135de49c.svg' alt='BUIDLHub logo' /></a>",
     githubUrl: 'https://github.com/BUIDLHub/docs',
     helpUrl: '',
     tweetText: '',
