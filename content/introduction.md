@@ -50,7 +50,7 @@ You never have to touch advanced configuration to get something working. Our **G
 
 When you load up BUIDLHUb, you'll be routed to a "Welcome" page:
 
-![welcome](https://github.com/BUIDLHub/docs/gatsby-gitbook-starter/src/assets/images/welcome.png)
+![welcome](https://github.com/BUIDLHub/docs/tree/master/src/assets/images/welcome.png)
 
 You can either choose to Design a Flow or Connect an App. First time users should click Design a Flow, whereas users that are trying to enable their own application to incorporate into a flow should return back here to Connect an App.
 
