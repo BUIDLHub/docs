@@ -18,30 +18,6 @@ BUIDLHub proposes a no-code, easy-to-use automation platform to help innovators 
 
 Want to experiment with the future? Here's your chance!
 
----
-
-title: 'Introduction'
-metaTitle: 'BUIDLHub Docs Intro'
-metaDescription: 'Getting started with the BUIDLHub documentation: let's automate web3.0 & web2.0 without coding.'
-
----
-
-BUIDLHub is a no-code solution for passing data between on-chain and traditional web and to ultimately change our relationship with technology. It's essentially IFTTT for web3.0.
-
-# Web3.0, Web2.0, Done!
-
-The data that passes between products and services in our life are siloed. Even in web3.0, we generally use non-financial apps in isolation.
-
-Despite all the advancement of SaaS, our relationship with tech is still quite janky. We need a way to connect the data about ourselves, purchased products, and subscribed services together without having it stolen, sold without us knowing, or used to track us.
-
-However, web3.0 industry participants, who created the connections to perform these functions, struggle with usability, aligning incentives, and growing their user base.
-
-BUIDLHub proposes a no-code, easy-to-use automation platform to help innovators spin up workflows built atop the greatest and latest decentralized apps so we can optimize our lives one step at a time. We also embed BUIDLHub forms on other pages so you can programmatically spin up flows.
-
-Want to experiment with the future? Here's your chance!
-
----
-
 # Get Started Now
 
 Read on about the intent and vision of BUIDLHub or jump into one of the Getting Started tutorials.

@@ -4,7 +4,9 @@ It's been 4 months since we updated our docs and a lot has changed.
 
 Using `npm` for package management.
 
-Use `gatsby-develop` to run locally.
+Use `npm start` to run locally.
+
+![welcome](https://github.com/BUIDLHub/docs/gatsby-gitbook-starter/src/assets/images/bhub-docs-cover-2.png)
 
 ## 🚀 Quickstart
 
@@ -114,5 +116,6 @@ Canonical URLs are generated automatically.
 
 ## Creds
 
-Huge thanks to [Hasura gatsby-gitbook-starter](https://github.com/hasura/gatsby-gitbook-starter) for the template:
+Huge thanks to [Hasura gatsby-gitbook-starter](https://github.com/hasura/gatsby-gitbook-starter) for the template.
+
 ![this](https://graphql-engine-cdn.hasura.io/learn-hasura/gatsby-gitbook-starter/assets/documentation_app_blog.png).
