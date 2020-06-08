@@ -1,5 +1,5 @@
 ---
-title: 'Let's Get Custom Wallet Notifications! (5 mins)'
+title: "Let's Get Custom Wallet Notifications (5 mins)"
 ---
 
 Get a formatted email with the information you want whenever your balance goes beneath a certain threshold.
@@ -11,27 +11,27 @@ Get a formatted email with the information you want whenever your balance goes b
 1. Login to the EventFlow app.
 2. Select "Design a Flow"
 
-![welcome](https://github.com/BUIDLHub/docs/tree/master/src/assets/images/introduction/welcome.png)
+![welcome](https://s3.amazonaws.com/docs.buidlhub.com/assets/images/introduction/welcome.png)
 
 3. Click "Create Flow"
 
-![create-flow](https://github.com/BUIDLHub/docs/tree/master/src/assets/images/getting-started/create-flow.png)
+![create-flow](https://s3.amazonaws.com/docs.buidlhub.com/assets/images/getting-started/create-flow.png)
 
 4. Welcome to a fresh flow! Let's name this flow (this is optional, but helps you remember what this flow did later). Click the "New Flow" name next to "Editing Flow".
 
 Set the name to "Custom Wallet Notification Demo":
 
-![custom-wallet-flow-start](https://github.com/BUIDLHub/docs/tree/master/src/assets/images/getting-started/custom-wallet/custom-wallet-flow-start.png)
+![custom-wallet-flow-start](https://s3.amazonaws.com/docs.buidlhub.com/assets/images/getting-started/custom-wallet/custom-wallet-flow-start.png)
 
 5. In Step 1, select the data source as a "Fixed Interval Timer", which periodically checks for something, and select the "Execute this Flow" as the source trigger, which fires an empty JSON event at a fixed interval.
 
-![custom-wallet-flow-start](https://github.com/BUIDLHub/docs/tree/master/src/assets/images/getting-started/custom-wallet/custom-wallet-execute-this-flow.png)
+![custom-wallet-execute-flow](https://s3.amazonaws.com/docs.buidlhub.com/assets/images/getting-started/custom-wallet/custom-wallet-execute-this-flow.png)
 
 6. Hit Save & Continue.
 
 7. Select an Interval Period of 30 minutes in the "Set Required Parameters":
 
-![custom-wallet-flow-start](https://github.com/BUIDLHub/docs/tree/master/src/assets/images/getting-started/custom-wallet/custom-wallet-required-parameters.png)
+![custom-wallet-required-parameters](https://s3.amazonaws.com/docs.buidlhub.com/assets/images/getting-started/custom-wallet/custom-wallet-required-parameters.png)
 
 8. Hit Save & Continue, and Step 1 should be complete.
 
@@ -66,8 +66,6 @@ Set the name to "Custom Wallet Notification Demo":
 22. Check your email to make sure that it worked!
 
 Any questions, suggestions, or want to make a new friend? **Please** [**let us know**](support@buidlhub.com)!
-
----
 
 Use **BUIDLHub** for FREE to dramatically reduce the time on blockchain-based event integrations.
 

@@ -50,7 +50,7 @@ You never have to touch advanced configuration to get something working. Our **G
 
 When you load up BUIDLHUb, you'll be routed to a "Welcome" page:
 
-![welcome](https://github.com/BUIDLHub/docs/tree/master/src/assets/images/welcome.png)
+![welcome](https://s3.amazonaws.com/docs.buidlhub.com/assets/images/introduction/welcome.png)
 
 You can either choose to Design a Flow or Connect an App. First time users should click Design a Flow, whereas users that are trying to enable their own application to incorporate into a flow should return back here to Connect an App.
 

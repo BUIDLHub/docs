@@ -1,5 +1,5 @@
 ---
-title: 'Let's Add Automations with Chatbots! (8 mins)'
+title: "Let's Add Automations with Chatbots! (8 mins)"
 ---
 
 Push data to other sites, using Maker DAI. You'll learn you can either subscribe to data on-chain and send it to discord or you can trigger an on-chain call and manually send the response over.
